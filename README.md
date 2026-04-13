@@ -4,7 +4,7 @@ A semantic, single-page HTML CV for Kunal Tiwari, a Junior Frontend Developer.
 
 ## Project URL
 
-https://github.com/KunalTiwari-git/Frontend-Projects/tree/main/SinglePageCV
+https://roadmap.sh/projects/single-page-cv
 
 ## Features
 
@@ -18,4 +18,4 @@ HTML
 
 ## Author
 
-**Kunal Tiwari** — [GitHub](https://github.com/KunalTiwari-git) | [LinkedIn](https://www.linkedin.com/in/kunaltiwari-/)
+Kunal Tiwari — [GitHub](https://github.com/KunalTiwari-git) | [LinkedIn](https://www.linkedin.com/in/kunaltiwari-/)
