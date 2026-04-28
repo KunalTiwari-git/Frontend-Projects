@@ -37,7 +37,7 @@ applyTheme(currentTheme);
 themeToggleBtn.addEventListener('click',toggleTheme);
 
 function toggleTheme(){
-    const newTheme = document.body.getAttribute('data-theme') === 'dark' ? 'light' :dark;
+    const newTheme = document.body.getAttribute('data-theme') === 'dark' ? 'light' : 'dark' ;
     applyTheme(newTheme);
     localStorage.setItem('theme',newTheme);
 }
